@@ -14,8 +14,8 @@ echo "
 	
 	\n";
 echo " $$$$$$$$$$ Auto  Story Viewer by Photolooz $$$$$$$$$$$$$$$$$$   \n";
-echo "  $-----$----$ Author @nthanfp Modified by 🤑 @mohsanjid 🤑 $----$---$  \n\n";
-echo " Subscribe my Youtube channel $ PhotoLooz $ for more videos--😍
+echo "  $-----$----$ Author @nthanfp Modified by 🤑 @Likh_.ith__ 🤑 $----$---$  \n\n";
+echo " Subscribe my Youtube channel $ Birwaz OP $ for more videos--😍
  \n\n";
 echo "[?] Input your instagram username : ";
 $userig    = trim(fgets(STDIN, 1024));
